@@ -9,6 +9,6 @@
         android:id="@+id/animation_view_a"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:lottie_fileName="Logo/LogoSmall.json"
+        app:lottie_fileName="Logo/data.json"
         app:lottie_loop="true" />
 </LinearLayout>
